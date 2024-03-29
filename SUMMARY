@@ -1,0 +1,2 @@
+禁止卸载和清除应用数据
+A Xposed Module that prevents apps be uninstall or apps' data be cleared
