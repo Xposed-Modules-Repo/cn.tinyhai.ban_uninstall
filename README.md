@@ -4,6 +4,11 @@
 
 A Xposed Module that prevents apps be uninstall or apps' data be cleared
 
+### Screenshots
+|                    1                     |                    2                     |                    3                     |
+|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+|<img src="https://github.com/TinyHai/BanUninstall/blob/main/screenshots/screenshot1.jpg"/>|<img src="https://github.com/TinyHai/BanUninstall/blob/main/screenshots/screenshot2.jpg"/>|<img src="https://github.com/TinyHai/BanUninstall/blob/main/screenshots/screenshot3.jpg"/>|
+
 ### Compatibility
 Android 5.0 - Android 14
 
